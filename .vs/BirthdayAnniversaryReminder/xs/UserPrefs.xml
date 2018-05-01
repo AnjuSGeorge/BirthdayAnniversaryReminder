@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{0CBA30E5-A12D-4262-BB33-06B53014B2BF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BirthdayAnniversaryReminder/Main.storyboard">
+    <Files>
+      <File FileName="BirthdayAnniversaryReminder/DisplayTableViewController.cs" Line="83" Column="6" />
+      <File FileName="BirthdayAnniversaryReminder/ViewController.cs" Line="64" Column="11" />
+      <File FileName="BirthdayAnniversaryReminder/EventDetails.cs" Line="27" Column="10" />
+      <File FileName="BirthdayAnniversaryReminder/Main.cs" Line="12" Column="1" />
+      <File FileName="BirthdayAnniversaryReminder/Eventcell.cs" Line="11" Column="10" />
+      <File FileName="BirthdayAnniversaryReminder/SQLite.cs" Line="2983" Column="50" />
+      <File FileName="BirthdayAnniversaryReminder/Main.storyboard" />
+      <File FileName="BirthdayAnniversaryReminder/ViewAllTableViewController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BirthdayAnniversaryReminder PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.674E3C09-3E4B-4342-ADA1-975A0BD74F10">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.BirthdayAnniversaryReminder>
+</Properties>

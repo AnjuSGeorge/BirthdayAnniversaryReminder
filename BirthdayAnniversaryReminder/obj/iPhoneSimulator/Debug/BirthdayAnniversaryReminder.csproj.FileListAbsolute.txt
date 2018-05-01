@@ -1,0 +1,12 @@
+/Users/anjugeorge/Projects/BirthdayAnniversaryReminder/BirthdayAnniversaryReminder/bin/iPhoneSimulator/Debug/BirthdayAnniversaryReminder.exe
+/Users/anjugeorge/Projects/BirthdayAnniversaryReminder/BirthdayAnniversaryReminder/bin/iPhoneSimulator/Debug/BirthdayAnniversaryReminder.pdb
+/Users/anjugeorge/Projects/BirthdayAnniversaryReminder/BirthdayAnniversaryReminder/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/anjugeorge/Projects/BirthdayAnniversaryReminder/BirthdayAnniversaryReminder/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_PartialAppManifest.items
+/Users/anjugeorge/Projects/BirthdayAnniversaryReminder/BirthdayAnniversaryReminder/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_BundleResourceWithLogicalName.items
+/Users/anjugeorge/Projects/BirthdayAnniversaryReminder/BirthdayAnniversaryReminder/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_PartialAppManifest.items
+/Users/anjugeorge/Projects/BirthdayAnniversaryReminder/BirthdayAnniversaryReminder/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/anjugeorge/Projects/BirthdayAnniversaryReminder/BirthdayAnniversaryReminder/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/birthday-party-png-hd-pearing-with-a-charity-to-celebrate-our-first-birthday-pip-pear-1920.png
+/Users/anjugeorge/Projects/BirthdayAnniversaryReminder/BirthdayAnniversaryReminder/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/
+/Users/anjugeorge/Projects/BirthdayAnniversaryReminder/BirthdayAnniversaryReminder/obj/iPhoneSimulator/Debug/BirthdayAnniversaryReminder.csproj.CoreCompileInputs.cache
+/Users/anjugeorge/Projects/BirthdayAnniversaryReminder/BirthdayAnniversaryReminder/obj/iPhoneSimulator/Debug/BirthdayAnniversaryReminder.exe
+/Users/anjugeorge/Projects/BirthdayAnniversaryReminder/BirthdayAnniversaryReminder/obj/iPhoneSimulator/Debug/BirthdayAnniversaryReminder.pdb
